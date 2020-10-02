@@ -1,3 +1,4 @@
+This is a Polymer 3 conversion of the app-localize-behavior element from Collaborne (https://github.com/PolymerElements/app-localize-behavior) with some minor adjustments. The readme was not updated and is still the one from the original app-localize-behavior element! Nowadays, the original element was already updated to Polymer 3, so it's probably better to use the original element and not this one.
 
 <!---
 
