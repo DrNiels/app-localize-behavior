@@ -12,7 +12,7 @@
     "url": "git://github.com/polymerelements/app-localize-behavior"
   },
   "homepage": "https://github.com/polymerelements/app-localize-behavior",
-  "name": "@polymer/app-localize-behavior",
+  "name": "dr-niels-app-localize-behavior",
   "version": "3.0.0-pre.19",
   "resolutions": {
     "inherits": "2.0.3",
@@ -26,7 +26,7 @@
   "license": "BSD-3-Clause",
   "dependencies": {
     "@polymer/iron-ajax": "^3.0.0-pre.19",
-    "intl-messageformat": "^2.2.0",
+    "dr-niels-intl-messageformat": "^2.2.0",
     "@polymer/polymer": "^3.0.0"
   },
   "devDependencies": {
